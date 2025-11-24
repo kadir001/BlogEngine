@@ -59,10 +59,9 @@ cd server
 npm install
 
 #1. Seed database + admin user
-node seed.js
+node seedAdmin.js
 
-
-#This will:
+This will:
 
 Create required tables
 

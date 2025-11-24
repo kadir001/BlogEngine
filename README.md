@@ -107,7 +107,7 @@ admin	admin123	Admin
 │   ├── routes/
 │   ├── middleware/
 │   ├── db.js
-│   ├── seed.js
+│   ├── seedAdmin.js
 │   └── server.js
 │
 └── README.md
